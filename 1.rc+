@@ -1,0 +1,12 @@
+include 'G:\Prg\Delphi\Projects\mouse\1\v2\' 
+$generate res
+
+
+begin Resource name 'icons' 
+
+ add '1.ico' as DATA name 'icon1'
+ add '2.ico' as DATA name 'icon2'
+ add '3.ico' as DATA name 'icon3'
+ 
+
+end Resource
